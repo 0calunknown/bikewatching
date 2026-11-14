@@ -19,16 +19,12 @@ header label {
   margin-left: auto;
 }
 
-header input[type='range'] {
-  width: 20em;
-}
-
 header time,
 header em {
   display: block;
 }
 
 header em {
-  color: #777;
+  color: gray;
   font-style: italic;
 }
